@@ -1,0 +1,25 @@
+{
+  "name": "comic-character-finder",
+  "version": "1.0.0",
+  "description": "A simple app to find comic characters using the marvel api.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kguertin/comic-character-finder.git"
+  },
+  "author": "Kevin Guertin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kguertin/comic-character-finder/issues"
+  },
+  "homepage": "https://github.com/kguertin/comic-character-finder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
